@@ -1,0 +1,19 @@
+{
+  "name": "autotestsupergenid",
+  "version": "1.0.0",
+  "description": "Roblox Account Auto Registration Tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": ["roblox", "automation", "registration"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "chalk": "^5.3.0"
+  }
+}
+
